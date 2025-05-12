@@ -1,5 +1,6 @@
 {
   "name": "reacts",
+  "homepage": "https://indrashh.github.io/indra-react-movie-app",
   "private": true,
   "version": "0.0.0",
   "type": "module",
